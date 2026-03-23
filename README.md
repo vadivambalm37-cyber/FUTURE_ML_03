@@ -1,5 +1,4 @@
-FUTURE_ML_03 — Customer Support Chatbot
-This project is implemented as part of the Future Interns – Machine Learning Internship (Task 3).
+Customer Support Chatbot
 
 The objective of this task is to design and build an AI-powered chatbot that can handle basic customer support queries such as order status, refund policy, and contacting support using Dialogflow.
 
